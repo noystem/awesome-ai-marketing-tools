@@ -26,7 +26,7 @@ Every tool in this directory has been manually audited for live pricing, true fe
   - [Ad Copy Generation (47)](#ad-copy-generation)
   - [Creative & Banner Generation (102)](#creative-banner-generation)
   - [Video Ads (50)](#video-ads)
-  - [Campaign Optimization (43)](#campaign-optimization)
+  - [Campaign Optimization (44)](#campaign-optimization)
   - [Competitor Ad Research (32)](#competitor-ad-research)
 - [Sales & CRM](#sales-crm)
   - [AI SDR & Outbound (71)](#ai-sdr-outbound)
@@ -873,6 +873,7 @@ Hand-picked B2B AI tool collections with live filtering and pricing audits:
 - **[MarcoPolo AI](https://www.marcopoloworldwide.com)** `Free tier available` — Autonomous cross-channel advertising platform for growth brands. ([Profile](https://toolvern.com/tool/marcopolo-ai/) · [Alternatives](https://toolvern.com/alternatives/marcopolo-ai/))
 - **[Marpipe](https://www.marpipe.com)** `Free tier available` — Multivariate creative testing platform that pinpoints winning ad elements. ([Profile](https://toolvern.com/tool/marpipe/) · [Alternatives](https://toolvern.com/alternatives/marpipe/))
 - **[Motion](https://motionapp.com)** `From $750/mo` — Creative analytics priced against ad spend. ([Profile](https://toolvern.com/tool/motion-app/) · [Alternatives](https://toolvern.com/alternatives/motion-app/))
+- **[NotFair](https://notfair.co)** `Free tier available` — Hosted MCP connectors that let AI agents audit Google, Meta, and X Ads and apply approval-gated campaign changes.
 - **[OptinMonster](https://optinmonster.com)** `Free tier available` — Behavioral popup builder and lead capture toolkit featuring patented Exit-Intent technology. ([Profile](https://toolvern.com/tool/optinmonster/) · [Alternatives](https://toolvern.com/alternatives/optinmonster/))
 - **[Optmyzr](https://www.optmyzr.com)** `Free tier available` — Advanced PPC management and automation software for agencies. ([Profile](https://toolvern.com/tool/optmyzr/) · [Alternatives](https://toolvern.com/alternatives/optmyzr/))
 - **[Pattern89](https://pattern89.com)** `Free tier available` — Predictive AI ad creative performance analytics and asset scoring. ([Profile](https://toolvern.com/tool/pattern89/) · [Alternatives](https://toolvern.com/alternatives/pattern89/))

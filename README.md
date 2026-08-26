@@ -1005,6 +1005,7 @@ Hand-picked B2B AI tool collections with live filtering and pricing audits:
 - **[Warmly](https://warmly.ai)** `Free tier available` — AI website visitor deanonymization and live sales orchestration platform. ([Profile](https://toolvern.com/tool/warmly/) · [Alternatives](https://toolvern.com/alternatives/warmly/))
 - **[Warmy.io](https://www.warmy.io)** `Free tier available` — Automated AI mailbox warmup and sender reputation booster. ([Profile](https://toolvern.com/tool/warmy-io/) · [Alternatives](https://toolvern.com/alternatives/warmy-io/))
 - **[Woodpecker](https://woodpecker.co)** `Free tier available` — Deliverability-first cold email and multi-channel outreach platform for B2B sales. ([Profile](https://toolvern.com/tool/woodpecker/) · [Alternatives](https://toolvern.com/alternatives/woodpecker/))
+- **[Workforce Wave](https://www.workforcewave.com)** `Custom / Quote` — AI voice agents that place and answer outbound and inbound sales calls, qualify leads by phone, and book appointments for SMB sales teams.
 - **[Yesware](https://www.yesware.com)** `Free tier available` — Sales productivity add-in for Outlook and Gmail with email tracking and multi-touch campaigns. ([Profile](https://toolvern.com/tool/yesware/) · [Alternatives](https://toolvern.com/alternatives/yesware/))
 - **[ZoomInfo](https://www.zoominfo.com)** `Free tier available` — Enterprise B2B go-to-market database and contact intelligence platform. ([Profile](https://toolvern.com/tool/zoominfo/) · [Alternatives](https://toolvern.com/alternatives/zoominfo/))
 

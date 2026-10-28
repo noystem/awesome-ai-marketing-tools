@@ -1503,6 +1503,7 @@ Hand-picked B2B AI tool collections with live filtering and pricing audits:
 - **[Zyng AI](https://zyng.ai)** `Free tier available` — Automated e-commerce product photoshoots and visual ad generator. ([Profile](https://toolvern.com/tool/zyng-ai/) · [Alternatives](https://toolvern.com/alternatives/zyng-ai/))
 
 ### Reviews & UGC
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 *Category Hub: [https://toolvern.com/ecommerce/reviews-ugc/](https://toolvern.com/ecommerce/reviews-ugc/)*
 
